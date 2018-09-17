@@ -1,10 +1,10 @@
 # My favorite things
-1  Football
+* item  Football
    1 Manchester United
    2 Real Madrid
    3 Ronaldo
-2  Music
+* item  Music
    1 EDM
    2 Pop
    
-3  Food
+* item  Food
